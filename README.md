@@ -1,0 +1,2 @@
+# CDN
+hosting CDN files
